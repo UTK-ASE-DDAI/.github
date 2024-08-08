@@ -34,4 +34,4 @@ The project is split between two core repositories.
 Each contains independent documentation.
 
 - [Web-Application](https://github.com/UTK-ASE-DDAI/frontend)
-- [Resource Server](https://github.com/UTK-ASE-DDAI/resource-server
+- [Resource Server](https://github.com/UTK-ASE-DDAI/resource-server)
