@@ -2,6 +2,14 @@
 
 ## Team
 
+- Frontend Team:
+
+  - Thomas Seeley  
+    GitHub ID: `iamseeley`
+
+  - Tyler Earps  
+    GitHub ID: `Tearps`
+
 - Backend Team:
 
   - Nicholas H.R. Sims  
@@ -17,15 +25,6 @@
 
   - Jonathan Wang  
     GitHub ID: `jonathanwang375`
-
-
-- Frontend Team:
-
-  - Thomas Seeley  
-    GitHub ID: `iamseeley`
-
-  - Tyler Earps  
-    GitHub ID: `Tearps`
 
 ## Core Project Repositories
 
