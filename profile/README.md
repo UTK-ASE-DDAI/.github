@@ -1,14 +1,33 @@
 # Dungeons & Dragons AI (UTK COSC540 Project)
 
-## Repositories
+## Team
+
+- Backend Team:
+
+  - Nicholas H.R. Sims  
+    GitHub ID: `nickhrsims`
+
+  - Jacob Harris  
+    GitHub ID: `jharris876`
+
+- ML Team:
+
+  - Will LaForge  
+    GitHub ID: `Vols-wlaforge`
+
+  - Jonathan Wang  
+    GitHub ID: `jonathanwang375`
+
+
+- Frontend Team:
+
+  - Thomas Seeley  
+    GitHub ID: `iamseeley`
+
+  - Tyler Earps  
+    GitHub ID: `Tearps`
+
+## Core Project Repositories
 
 - [Web-Application](https://github.com/UTK-ASE-DDAI/frontend)
-- [Resource Server](https://github.com/UTK-ASE-DDAI/resource-server)
-- [ML-RAG-Model](https://github.com/UTK-ASE-DDAI/rag-model)
-
-## Project Backlogs
-
-- [High-Level Planning](https://github.com/orgs/UTK-ASE-DDAI/projects/2)
-- [Web-Application](https://github.com/orgs/UTK-ASE-DDAI/projects/4)
-- [Resource Server](https://github.com/orgs/UTK-ASE-DDAI/projects/3)
-- [ML-RAG-Model](https://github.com/orgs/UTK-ASE-DDAI/projects/5)
+- [Resource Server](https://github.com/UTK-ASE-DDAI/resource-server
