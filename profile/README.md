@@ -2,6 +2,10 @@
 
 ![logo](logo.png)
 
+## Description
+
+This project allows users to create a randomly-generated NPC as well as ask it questions about the rules of DnD. Once a response has been generated, the user has the option to save the history as well as regenerate new answers from previous prompts
+
 ## Team
 
 - Frontend Team:
