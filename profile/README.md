@@ -1,5 +1,7 @@
 # Dungeons & Dragons AI (UTK COSC540 Project)
 
+![logo](logo.png)
+
 ## Team
 
 - Frontend Team:
@@ -27,6 +29,9 @@
     GitHub ID: `jonathanwang375`
 
 ## Core Project Repositories
+
+The project is split between two core repositories.
+Each contains independent documentation.
 
 - [Web-Application](https://github.com/UTK-ASE-DDAI/frontend)
 - [Resource Server](https://github.com/UTK-ASE-DDAI/resource-server
